@@ -1,6 +1,8 @@
 <h1> Simple Collatz Conjucture Program</h1>
 <h2>Collatz</h2>
 <p>It's a piecewise function that takes in any whole number( n ) and does an operation based on it's parity and returns n back to the function. Allowing for an easy recursive implementation.</p>
+<h1>Compile</h1>
+<blockquote>gcc -Wall collatz.c -o run</blockquote>
 <h2>Conjecture Loops</h2>
 <p>
   Loops differ by type of whole number. If the whole number is positive then the collatz conjecture holds the
